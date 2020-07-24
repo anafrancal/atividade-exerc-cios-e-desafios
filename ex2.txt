@@ -1,0 +1,13 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Prof. Cloves Rocha
+# Estudante: Ana Gleyce
+#include<stdio.h>
+int main()
+{
+  int numero;
+  printf("Digite um numero: ");
+  scanf("%d", &numero);
+  
+  printf("O numero informado foi: "%d", numero);
+}

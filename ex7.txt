@@ -1,0 +1,8 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Prof. Cloves Rocha
+# Estudante: Ana Gleyce
+#valor_recebido_por_hora = float(input('Digite o quanto você recebe por hora: '))
+#horas_trabalhadas = int(input('Quantas horas você trabalha diariamente? '))
+#salario = (valor_recebido_por_hora * horas_trabalhadas) * 23
+#print(f'O seu salário é igual a R${salario}')

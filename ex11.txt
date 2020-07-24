@@ -1,0 +1,9 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Prof. Cloves Rocha
+# Estudante: Ana Gleyce
+#letra = input('Digite uma letra: ')
+#if letra in 'aeiou':
+#    print(f'{letra} é uma vogal.')
+#else:
+#    print(f'{letra} é uma consoante.')

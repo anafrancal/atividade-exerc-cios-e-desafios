@@ -1,0 +1,12 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Prof. Cloves Rocha
+# Estudante: Ana Gleyce
+ 
+salario_hora = input('Quantos reais você ganha por hora? ')
+horas_trabalhadas = input('Quantas horas trabalhadas por dia? ')
+dias_trabalhados = input('Quantos dias trabalhados no mês? ')
+ 
+calculo_salario = float(salario_hora)*float(horas_trabalhadas)*float(dias_trabalhados)
+ 
+print('O seu salário neste mês foi de: R$', calculo_salario)

@@ -1,0 +1,7 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Prof. Cloves Rocha
+# Estudante: Ana Gleyce
+#metro = float(input('Digite uma medida em metros: '))
+#cent = metro * 100
+#print(f'{metro} metros convertido para centímetros é igual a {cent} centímetros.')

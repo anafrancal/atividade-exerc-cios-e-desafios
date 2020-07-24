@@ -1,0 +1,12 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Prof. Cloves Rocha
+# Estudante: Ana Gleyce
+#nome = input('Digite seu nome: ')
+#sexo = input('Digite seu sexo : ')
+#if sexo == 'm':
+#    print(f'{nome} é do sexo Masculino')
+#elif sexo == 'f':
+#    print(f'{nome} é do sexo Feminino')
+#else:
+#    print('Sexo Inválido.')

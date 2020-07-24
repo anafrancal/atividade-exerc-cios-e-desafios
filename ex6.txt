@@ -1,0 +1,8 @@
+# ETE PORTO DIGITAL
+# LPC - Introdução a Python
+# Prof. Cloves Rocha
+# Estudante: Ana Gleyce
+import math #importar a matemática para o pi.
+raio_circulo = input('Qual o raio do cículo (em metros) ? ')
+calculo_area = math.pi*float(raio_circulo)*float(raio_circulo)
+print('A área do círculo é: ', round(calculo_area,2), 'm')
